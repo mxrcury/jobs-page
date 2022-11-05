@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jobs-page/static/css/main.b60007c6.css",
+    "main.js": "/jobs-page/static/js/main.9c08000b.js",
+    "static/media/filledstar-icon.svg": "/jobs-page/static/media/filledstar-icon.940f154bce8c4fba195c32ab44b144f2.svg",
+    "static/media/arrow-right.svg": "/jobs-page/static/media/arrow-right.e1775d692a8be21f486e31c5eef3cbc6.svg",
+    "static/media/arrow-left.svg": "/jobs-page/static/media/arrow-left.bce96e1f62581c4b6fd51e7bc1a163f9.svg",
+    "static/media/share-icon.svg": "/jobs-page/static/media/share-icon.0f3eb9e4ba5b1a03ecd49bb7a06313aa.svg",
+    "index.html": "/jobs-page/index.html",
+    "static/media/backarrow-icon.svg": "/jobs-page/static/media/backarrow-icon.81b0f26cb6486aa14408fc44c9104536.svg",
+    "static/media/bookmark-icon.svg": "/jobs-page/static/media/bookmark-icon.2aaeb9ed121c166915fe225b4885147f.svg",
+    "static/media/location-icon.svg": "/jobs-page/static/media/location-icon.1c093ca173a538132f1ce31ab6296061.svg",
+    "main.b60007c6.css.map": "/jobs-page/static/css/main.b60007c6.css.map",
+    "main.9c08000b.js.map": "/jobs-page/static/js/main.9c08000b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b60007c6.css",
+    "static/js/main.9c08000b.js"
+  ]
+}
